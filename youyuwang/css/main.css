@@ -1,0 +1,375 @@
+/* CSS Document */
+.header{
+	overflow: hidden;
+	border-bottom:1px solid #ECECEC;
+}
+.sent{
+	width:110px;
+	height:32px;	
+	margin-left:164px;
+	float:left;
+}
+.sent li{
+	line-height:32px;
+}
+.check{
+	height:32px;
+	width: 866px;
+    float: right;
+    margin-right:75px;
+}
+.check ul{
+    float: right;
+	padding-right:85px;
+}
+.check li{
+	float:left;
+	margin:10px 0px 10px 20px;
+	font-size:11px;
+}
+.nav{
+	overflow:hidden;
+	width:1200px;
+	margin:0 auto;
+}
+.nav h1{
+	width:220px;
+	height:61px;
+	padding:24px 0px 24px 0px;
+	float:left;
+}
+.banner{
+	width:726px;
+	overflow:hidden;
+	float:left;
+	margin: 24px 0px 24px 0px;
+}
+.search{
+	width:504px;
+	height:36px;
+	border:1px solid gray;
+}
+.search .inputone{
+	width:417px;
+	height:35px;
+	border:0px;
+}
+.search .inputtwo{
+	width:87px;
+	height:36px;
+	border:0px;
+	float:right;
+	background:#C5131E;
+}
+.search span{
+	margin-left:28px;
+	width:87px;
+	background:#FF0000;
+}
+.banner li{
+	float:left;
+	margin:10px 0px 0px 10px;
+	color:#A5A5A5;
+	font-size:11px;
+}
+.banner li .iphone{color:#C5131E;}
+.nav h2{
+	width:127px;
+	height:35px;
+	padding:24px 0px 24px 0px;
+	float:left;
+}
+.nav p{
+	padding:24px 0px 24px 0px;
+	float:right;
+}
+
+.top{
+	height:38px;
+	border-bottom:3px solid #C5131E;
+}
+.all{
+	width:211px;
+	height:38px;
+	background:#C5131E;
+	margin-left:159px;
+	float:left;
+}
+.all p{
+	padding:12px 0px 12px 18px;
+}
+.varite{
+	overflow:hidden;
+}
+.varite li{
+	float:left;
+	margin:10px 0px 15px 25px;
+}
+.content{
+	width:1202px;
+	margin-left:75px;
+	overflow:hidden;
+	margin:0 auto;
+	
+}
+.content .allgoods{
+	width:210px;
+	height:504px;
+	background:#FFF0F2;
+	border:1px solid red;
+	border-top:0px;
+	float:left;
+}
+.allgoods .goodsone{
+	height:70px;
+	overflow:hidden;
+	border-top:1px solid #E8E8E8;
+}
+.goodsone p{
+	padding:13px 0px 18px 10px;
+	color:#0161AD;
+	font-size:12px;
+}
+.goodsone ul{
+	padding-left:10px;
+}
+.goodsone li{
+	float:left;
+	height:13px;
+	font-size:10px;
+	padding-right:15px;
+	padding-bottom:14px;
+}
+.goodsone li a{color:#3B0162;}
+.content .new{
+	width:715px;
+	height:504px;
+	float:left;
+}
+.content .big{
+	width:695px;
+	height:287px;
+	background:url(../images/youyu_10.png) no-repeat;
+	margin:13px 9px 0px 9px;
+}
+.threephone ul{
+	margin:0px 9px;
+}
+.threephone li{
+	float:left;
+}
+.newspaper{
+	width:273px;
+	height:492px;
+	margin-left: 927px;
+	margin-top:13px;
+	border:1px solid #EFEFEF;
+}
+.newspapertop{
+	height:36px;
+	border-bottom:1px solid #dddddd;
+}
+.newspapertop li{
+	float:left;
+	line-height:36px;
+	margin-left:8px;
+}
+.newspapertop li .more{
+	color:#c5131e;
+	margin-left:160px;
+	font-size:10px;	
+}
+.newspapercontent ul{
+	margin-top:8px;
+}
+.newspapercontent li{
+	list-style-type:square;
+	color:#FF0000;
+	margin-left:20px;
+	font-size:10px;
+	margin-bottom:16px;
+}
+.content .eight{
+	height:389px;
+	clear:both;
+	padding-top:18px;
+}
+.eight li{
+	float:left;
+	height:191px;
+	margin: 0px 0px 7px;
+}
+.eight li .eightright{
+	float:right;
+	margin: 0px 12px 0px 0px;
+}
+.content .opponine{
+	height:449px;
+	margin-top:20px;
+}
+.hotone h2{
+	height:40px;
+	line-height:40px;
+	background:url(../images/youyutwo_03.png) no-repeat left;
+	padding-left:252px;
+} 
+.hotone h1{
+	height:40px;
+	line-height:40px;
+	background:url(../images/youyutwo_06.png) no-repeat left;
+	padding-left:252px;
+} 
+.hotone h3{
+	height:40px;
+	line-height:40px;
+	background:url(../images/youyutwo_08.png) no-repeat left;
+	padding-left:252px;
+} 
+.hotone h4{
+	height:40px;
+	line-height:40px;
+	background:url(../images/youyutwo_13.png) no-repeat left;
+	padding-left:252px;
+} 
+.hotone h5{
+	height:40px;
+	line-height:40px;
+	background:url(../images/youyutwo_16.png) no-repeat left;
+	padding-left:252px;
+} 
+.moretwo{
+	color:#ED0043;
+	font-size:12px;
+	font-weight:bold;
+}
+.opponine .hottwo{
+	overflow:hidden;
+	border-top:2px solid #b4b4b4;
+	
+}
+.huaweipicture{
+	float:left;
+	border-bottom:1px solid #efefef;
+}
+.hottwo li{
+	font-size:12px;
+}
+.hottwo .hottwoleft{
+	width:184px;
+	height:158px;
+	padding-left:10px;
+}
+.hottwoleft ul{
+	float:left;
+}
+.hottwoleft li{
+	line-height:25px;
+}
+.hottwoleft .huawei{
+	margin-left:69px;
+}
+.five{
+	overflow:hidden;
+}
+.five dl{
+    float:left;
+	width:167px;
+	height:205px;
+	border-left:1px solid #efefef;
+	border-bottom:1px solid #efefef;
+}
+.five h1{float:left;height:205px;border-left:1px solid #efefef;border-bottom:1px solid #efefef;}
+.five .fiveone dd{color:#666;font-size:12px;margin-left:40px;}
+.five .fiveone p{color:#e4393c;font-size:14px;padding-top: 5px;}
+.user{
+	height:305px;
+	border:1px solid #dddddd;
+	margin: 20px 0px;
+	border-top:1px solid #aaaaa9;
+	color:#6a3e3e;
+}
+.user .sun{
+	width:380px;
+	height:305px;
+	float:left;
+}
+.sun h1{
+	height:19px;
+	border:1px solid #dddddd;
+	padding:12px 0px 8px 13px;
+	background-color:#f4f4f4;
+}
+.watch{overflow:hidden;}
+.watch p{float:left;}
+.watch dl{float:left;}
+.watch dl dt{float:left;padding:10px 5px 0px 0px;}
+.watch dl .cat{
+	height: 49px;
+    line-height: 49px;
+	padding-left:5px;
+}
+.watch dl .text{
+	width: 244px;
+	height: 49px;
+	background-color:#f8f8f8;
+    margin-top: 9px;
+}
+.watch dd li{
+	list-style:none;
+	font-size:12px;
+}
+.user .shall{
+	width:516px;
+	height:305px;
+	float:left;
+	border:1px solid #dddddd;
+}
+.shall h1{
+	height:19px;
+	border-bottom:1px solid #dddddd;
+	padding:12px 0px 8px 13px;
+	background-color:#f4f4f4;
+}
+.shallask{overflow:hidden;}
+.shallask p{float:left;}
+.shallask dl{float:left;width: 231px;}
+.shallask dt{float:left;font-size: 12px;}
+.shallask dd{font-size:12px;}
+.shallask .askones{padding:20px 0px 5px 0px;}
+.askones .red{color:#ed0043;font-size:14px;}
+.shallask .asktwos{color: #005fa2;}
+.apple{width:302px;height:305px;float:left;}
+.apple h1{height:19px;border-bottom:1px solid #dddddd;padding:12px 0px 8px 13px;background-color:#f4f4f4;}
+.apple dl{float:left;width: 218px;}
+/*------结尾-----*/
+.footer3{background-color: #f4f4f4;}
+.f3_top{border-bottom:2px solid #ed0042;background-color:#eeeeee;overflow:hidden;margin-top:0px;}
+.f3_top_center{width:1200px;margin:0 auto;}
+.f3_top_center>div{float:left;height:45px;line-height:45px;padding-left:55px;font-size:20px;color:#000;margin:43px 30px;}
+.f3_top_center>div.ts1{background:url(../images/icon_1_17.png) no-repeat left;}
+.f3_top_center>div.ts2{background:url(../images/icon_1_20.png) no-repeat left;}
+.f3_top_center>div.ts3{background:url(../images/icon_1_23.png) no-repeat left;	}
+.f3_top_center>div.ts4{background:url(../images/icon_1_25.png) no-repeat left;}
+/* .f3_center{
+	height:236px;
+	background-color:#f4f4f4;
+}
+.f3_bottom{
+	height:150px;
+	background-color:#f7f7f7;
+} */
+.footeroneone{width:1200px;margin:0 auto;height:236px;}
+.footerone{overflow:hidden;padding-top:40px;}
+.footerone dt{float:left;height:236px;}
+.footerone dd p{font-size:19px;}
+.footerone dd li{margin:6px 0;	font-size: 12px;list-style:none;}
+.footerone .lastone{float: left;margin-right: 68px;width:116px;height: 197px}
+.footerone dd img{display: block;float: left;height: 78px;width: 80px;padding:10px;}
+.footerone .last{height:197px;}
+.footerone .last dd{font-size:12px;padding: 7px;}
+.oldphone{height:154px;background-color:#f7f7f7;}
+.oldphoneone{width:390px;margin:0 auto;height:20px;padding:30px 0px 12px 0px;}
+.oldphoneone li{float:left;padding-left:5px;font-size:12px;}
+.oldphone h1{width:420px;margin:0 auto;font-size:12px;height:20px;color:#666;}
+.oldphonepicture{margin:0 auto;width:575px;height:35px;padding-top:12px;}
+.oldphonepicture li{float:left;padding-right:15px;}
